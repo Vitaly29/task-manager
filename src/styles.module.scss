@@ -1,0 +1,27 @@
+.app {
+    display: flex;
+  }
+  
+  .taskArea {
+    width: 70%;
+  }
+  
+  .detailsArea {
+    width: 30%;
+    padding: 10px;
+    border-left: 1px solid #ccc;
+  }
+  
+  .taskItem {
+    display: flex;
+    align-items: center;
+  }
+  
+  .taskList {
+    padding-left: 20px;
+  }
+  
+  .subTasks {
+    margin-left: 20px;
+  }
+  
